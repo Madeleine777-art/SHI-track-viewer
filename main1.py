@@ -71,7 +71,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Page Title
-st.markdown("<div class='main-title'>Studying Recrystallisation Dynamics of Swift Heavy Ion Tracks in Single Crystal Y<sub>3</sub>Fe<sub>5</sub>O<sub>12</sub> (YIG)</div>", unsafe_allow_html=True)
+st.markdown("<div class='main-title'>Recrystallisation Dynamics of Swift Heavy Ion Tracks in Single Crystal Y<sub>3</sub>Fe<sub>5</sub>O<sub>12</sub> (YIG)</div>", unsafe_allow_html=True)
 
 # Table of Contents with anchor buttons
 st.markdown("### 📚 Table of Contents")
