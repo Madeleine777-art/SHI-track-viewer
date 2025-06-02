@@ -201,7 +201,7 @@ The resulting time series of images was corrected for the camera gain response a
 """, unsafe_allow_html=True)
 
 # Fig. 5
-st.video("Full_Aligned_Stackoutput_fixed_annotated_stack.mp4")
+st.video("processed_with_scalebar.mp4")
 st.markdown("""
 <div style="text-align: center; margin-bottom: 1.5em;">
 <strong>Fig. 5.</strong> Dynamic evolution of SHI track recrystallisation in single‐crystal YIG. Aligned BF TEM frames of a YIG specimen irradiated with 167 MeV Xe ions, annotated with elapsed time (s) and temperature (<span style="white-space:nowrap;">773–823&nbsp;K</span>), captured by a high-speed camera. Track diameter reveals insignificant recrystallisation at about <span style="white-space:nowrap;">773&nbsp;K</span> and progressive decrease at <span style="white-space:nowrap;">823&nbsp;K</span>, indicating recrystallisation.
